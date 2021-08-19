@@ -128,7 +128,7 @@ export default function Attribution({ isOpen, setIsOpen }) {
         <Heading>Nandini Jain</Heading>
 
         <Link
-          href="https://github.com/ApplePieGiraffe/invoice-app"
+          href="https://github.com/nandini2201/Invoice-app"
           target="_blank"
         >
           <span>Visit Git repo</span>
