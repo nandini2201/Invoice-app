@@ -31,7 +31,7 @@ export default function Home({ invoices, setInvoices }) {
 					Invoices {filteredInvoices && 
 					filteredInvoices.length !== 0 && 
 					`(${filteredInvoices.length})` || 
-					''} | Frontend Mentor
+					''}
 				</title>
 			</Head>
 			<Main>
