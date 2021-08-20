@@ -30,7 +30,7 @@ export default function Home({ invoices, setInvoices }) {
 				<title>
 					Invoices {filteredInvoices && 
 					filteredInvoices.length !== 0 && 
-					`(${filteredInvoices.length})` || 
+					`(${filteredInvoices.length})`||
 					''}
 				</title>
 			</Head>
